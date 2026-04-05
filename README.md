@@ -7,6 +7,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn--ui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=vercel)
 
 ---
 
@@ -64,11 +65,13 @@ The app will run at `http://localhost:8080`
 
 ### Environment Variables
 
-Create a `.env` file in the root directory:
+Create a `.env` file in the root directory and add your keys:
 
 ```env
 VITE_API_KEY=your_api_key_here
 ```
+
+> ⚠️ Never commit your `.env` file with real API keys. It is already added to `.gitignore`.
 
 ---
 
