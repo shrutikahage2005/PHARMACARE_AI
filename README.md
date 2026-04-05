@@ -17,12 +17,11 @@
 
 ### ✨ Key Features
 
-- 🤖 AI-powered medication assistant
-- 💬 Interactive chat interface for health queries
-- 📱 Fully responsive design (mobile + desktop)
-- 🎨 Clean modern UI using shadcn/ui + Tailwind CSS
-- ⚡ Lightning fast with Vite build system
-- 🔒 Secure API integration
+- [ ] Drug interaction checker
+- [ ] Prescription upload & analysis
+- [ ] Multilingual support (Hindi + English)
+- [ ] User history & saved queries
+- [ ] Integration with real pharmacy APIs
 
 ---
 
