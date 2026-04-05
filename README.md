@@ -1,58 +1,115 @@
+# 💊 PharmaCare AI
 
-## How can I edit this code?
+> An AI-powered pharmacy care assistant that helps users understand medications, check drug interactions, and get healthcare guidance — built with React, TypeScript, and Tailwind CSS.
 
-There are several ways of editing your application.
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn--ui-000000?style=flat&logo=shadcnui&logoColor=white)
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in.
+## 🚀 About The Project
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+**PharmaCare AI** is a smart healthcare web application designed to assist patients and caregivers with pharmacy-related queries using AI. It provides an intuitive interface to interact with AI for medication information, dosage guidance, and drug safety.
 
-Follow these steps:
+### ✨ Key Features
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- 🤖 AI-powered medication assistant
+- 💬 Interactive chat interface for health queries
+- 📱 Fully responsive design (mobile + desktop)
+- 🎨 Clean modern UI using shadcn/ui + Tailwind CSS
+- ⚡ Lightning fast with Vite build system
+- 🔒 Secure API integration
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🛠️ Tech Stack
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+| Technology | Purpose |
+|---|---|
+| React + TypeScript | Frontend framework |
+| Tailwind CSS | Styling & responsive design |
+| shadcn/ui | UI component library |
+| Vite | Build tool & dev server |
+| Capacitor | Mobile app support |
+
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or above)
+- npm or bun
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/shrutikahage2005/PHARMACARE_AI.git
+
+# Navigate into the project
+cd PHARMACARE_AI
+
+# Install dependencies
+npm install
+
+# Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The app will run at `http://localhost:8080`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Environment Variables
 
-**Use GitHub Codespaces**
+Create a `.env` file in the root directory:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+```env
+VITE_API_KEY=your_api_key_here
+```
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 📁 Project Structure
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+```
+PHARMACARE_AI/
+├── src/
+│   ├── components/     # Reusable UI components
+│   ├── pages/          # Application pages
+│   ├── hooks/          # Custom React hooks
+│   └── lib/            # Utility functions
+├── public/             # Static assets
+├── index.html
+└── vite.config.ts
+```
 
+---
 
-## Can I connect a custom domain to my  project?
+## 🔭 Upcoming Features
 
-Yes, you can!
+- [ ] Drug interaction checker
+- [ ] Prescription upload & analysis
+- [ ] Multilingual support (Hindi + English)
+- [ ] User history & saved queries
+- [ ] Integration with real pharmacy APIs
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
+## 👩‍💻 Author
+
+**Shrutika Hage**
+- GitHub: [@shrutikahage2005](https://github.com/shrutikahage2005)
+- LinkedIn: [shrutikahage2005](https://linkedin.com/in/shrutikahage2005)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+> ⭐ If you found this project helpful, please give it a star!
