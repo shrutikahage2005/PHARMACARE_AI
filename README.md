@@ -181,25 +181,23 @@ The app will run at `http://localhost:8080`
 ## 📸 Screenshots
 
 ### 🖥️ Admin Portal — AI Chat Assistant
-> The admin-facing AI pharmacist dashboard where administrators can interact with the AI, monitor queries, and manage pharmacy operations.
+> Administrators can interact with the PharmaCare AI, monitor queries, and manage pharmacy operations in real time.
 
-![Admin AI Chat](https://github.com/user-attachments/assets/9c0c1f84-775c-4a7a-93d6-7204ab0852da)
+<img width="1920" alt="Admin AI Chat" src="https://github.com/user-attachments/assets/1a4f7df2-d09c-4ed7-ab7f-cce2b9a5a12d" />
 
 ---
 
 ### 📦 Inventory Management
 > Real-time inventory tracking with stock levels, pricing, categories, and Rx/low-stock flags to help admins stay on top of medicine availability.
 
-![Inventory Management](https://github.com/user-attachments/assets/inventory-screenshot)
-
-> **Medicines listed include:** Women's Health, Respiratory, Digestive Health, Hair Care, Cardiovascular supplements, and more — with PZN codes, pricing, and stock counts.
+<img width="1920" alt="Inventory Management" src="https://github.com/user-attachments/assets/dd8dc9b7-a0c0-4644-9d1e-c8e34c123ec0" />
 
 ---
 
 ### 🔔 Refill Alerts — AI Proactive Predictions
 > AI-predicted refill needs based on patient purchase history and dosage patterns. Urgent and upcoming refill alerts are shown with one-click notify actions.
 
-![Refill Alerts](https://github.com/user-attachments/assets/refill-alerts-screenshot)
+<img width="1920" alt="Refill Alerts" src="https://github.com/user-attachments/assets/c6011a97-37b8-494c-9c44-3240e1078e75" />
 
 | Status | Meaning |
 |--------|---------|
@@ -211,16 +209,14 @@ The app will run at `http://localhost:8080`
 ### 🧬 Disease Matrix — Health Condition Analytics
 > AI-powered disease prediction matrix showing patient health condition distribution across age groups (18–30, 31–45, 46–60, 61+).
 
-![Disease Matrix](https://github.com/user-attachments/assets/disease-matrix-screenshot)
-
-Conditions tracked include: Respiratory, Hypertension, Hair Loss, Women's Health, Urinary Issues, Allergies, Pain/Inflammation, Nutritional Deficiency, and Digestive Issues.
+<img width="1920" alt="Disease Matrix" src="https://github.com/user-attachments/assets/7e2c808e-ffea-4d83-8b53-838d1e8a130c" />
 
 ---
 
 ### 🔍 Agent Traces — AI Observability Dashboard
 > Real-time chain-of-thought traces showing the AI agent's Thought → Tool Call → Response pipeline with timestamps and latency for full transparency.
 
-![Agent Traces](https://github.com/user-attachments/assets/agent-traces-screenshot)
+<img width="1920" alt="Agent Traces" src="https://github.com/user-attachments/assets/6e1b13e9-5f43-41bb-8b8d-4a751228c99e" />
 
 Trace types include:
 - 🧠 **Thought** — AI internal reasoning step
@@ -230,9 +226,9 @@ Trace types include:
 ---
 
 ### ⚡ Workflow Automation
-> Webhook and notification automation panel that integrates with Zapier/n8n, Email, and WhatsApp (Twilio) to send real-time order and refill alerts.
+> Webhook and notification automation panel integrating with Zapier/n8n, Email, and WhatsApp (Twilio) for real-time order and refill alerts.
 
-![Workflows](https://github.com/user-attachments/assets/workflow-screenshot)
+<img width="1920" alt="Workflow Automation" src="https://github.com/user-attachments/assets/7df42c43-e17f-4918-8430-4f2ce0cb64fd" />
 
 Supported integrations:
 - 🔗 **Zapier / n8n Webhooks** — Auto-triggered on order events
@@ -244,20 +240,14 @@ Supported integrations:
 ### 🧑‍⚕️ User Portal — AI Pharmacist Chat
 > The patient-facing AI pharmacist chat interface where users can ask about medicines, check interactions, verify prescriptions, and set up automatic refills.
 
-![User AI Chat](https://github.com/user-attachments/assets/user-chat-screenshot)
-
-The AI greets each user by name and offers:
-- 💊 Order medicines & check availability
-- 📋 Verify prescriptions
-- 🔄 Set up automatic refills
-- ❓ Answer health questions
+<img width="1920" alt="User AI Chat" src="https://github.com/user-attachments/assets/c8830329-31a1-4aad-8af6-f9077b644aca" />
 
 ---
 
 ### 📄 Upload Prescription (Rx)
 > Patients can upload a doctor's prescription (JPG, PNG, or PDF) and the AI will automatically extract medicine details for order processing.
 
-![Upload Prescription](https://github.com/user-attachments/assets/upload-rx-screenshot)
+<img width="1920" alt="Upload Prescription" src="https://github.com/user-attachments/assets/165ed793-494f-4725-93d9-39211678008e" />
 
 ---
 
