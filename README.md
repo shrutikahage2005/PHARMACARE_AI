@@ -212,11 +212,9 @@ This project demonstrates:
 
 ## 📸 Screenshots
 
-*Add screenshots of your UI here for better presentation*
-## 📸 Screenshots
-
 ### 🖥️ Admin Portal — AI Chat
-![Admin Chat](screenshots/admin-chat.png)
+![Admin Chat]
+<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/9c0c1f84-775c-4a7a-93d6-7204ab0852da" />
 
 ### 📦 Inventory Management
 ![Inventory](screenshots/inventory.png)
